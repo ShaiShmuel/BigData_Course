@@ -999,3 +999,8 @@ Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax
 727-02-1313,A,Yangon,Member,Male,Food and beverages,31.84,1,1.592,33.432,2/9/2019,13:22,Cash,31.84,4.761904762,1.592,7.7
 347-56-2442,A,Yangon,Normal,Male,Home and lifestyle,65.82,1,3.291,69.111,2/22/2019,15:33,Cash,65.82,4.761904762,3.291,4.1
 849-09-3807,A,Yangon,Member,Female,Fashion accessories,88.34,7,30.919,649.299,2/18/2019,13:28,Cash,618.38,4.761904762,30.919,6.6
+315-22-5665,C,Naypyitaw,Normal,Female,Home and lifestyle,73.56,10,36.78,772.38,2/24/2019,11:38,Ewallet,735.6,4.761904762,36.78,8
+605-03-2706,A,Yangon,Normal,Female,Health and beauty,15.8,3,2.37,49.77,3/25/2019,18:02,Cash,47.4,4.761904762,2.37,9.5
+725-54-0677,C,Naypyitaw,Member,Male,Health and beauty,85.6,7,29.96,629.16,3/2/2019,13:50,Cash,599.2,4.761904762,29.96,5.3
+
+
